@@ -58,3 +58,6 @@ CREATE TABLE IF NOT EXISTS `turler` (
 - Mysql Referans dosyasını indirin: https://github.com/hnkbilisim/Windows-Form-Firmler/blob/main/MySql.Data.dll
 - Referanslara tıklayın.
 - Add Referansa tıklayın.
+
+## Görseller
+![Form 1 Görseli](gorsel/Ekran görüntüsü 2024-06-02 024616.png)
