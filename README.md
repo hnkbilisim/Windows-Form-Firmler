@@ -60,6 +60,5 @@ CREATE TABLE IF NOT EXISTS `turler` (
 - Add Referansa tıklayın.
 
 ## Görseller
-![Form 1 Görseli](/gorsel/Ekran%20görüntüsü%202024-06-02%20024616.png)
-![asd](https://github.com/hnkbilisim/Windows-Form-Firmler/blob/main/gorsel/Ekran%20görüntüsü%202024-06-02%20024616.png)
-![dsa](https://raw.githubusercontent.com/hnkbilisim/Windows-Form-Firmler/main/gorsel/Ekran%20görüntüsü%202024-06-02%20024616.png)
+![Form 1](https://github.com/hnkbilisim/Windows-Form-Firmler/blob/main/gorsel/Ekran%20görüntüsü%202024-06-02%20024616.png)
+
