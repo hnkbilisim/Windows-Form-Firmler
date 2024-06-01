@@ -4,6 +4,6 @@ Bu proje, Windows Form ortamında ilişkisel bir veritabanı(MariaDB) kullanarak
 
 ## Kurulum
 
-1. Projeyi klonlayın: [git clone https://github.com/kullanici/proje.git](https://github.com/hnkbilisim/Windows-Form-Firmler.git)
+1. Projeyi klonlayın: https://github.com/hnkbilisim/Windows-Form-Firmler.git
 2. Veritabanını yükleyin: `filmler_Db.sql`
 3. Widows Form ile Projeyi Başlatın
