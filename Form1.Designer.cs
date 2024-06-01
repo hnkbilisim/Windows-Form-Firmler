@@ -40,6 +40,7 @@
             this.btnFilmEkleForm.TabIndex = 0;
             this.btnFilmEkleForm.Text = "Film Ekle";
             this.btnFilmEkleForm.UseVisualStyleBackColor = true;
+            this.btnFilmEkleForm.Click += new System.EventHandler(this.btnFilmEkleForm_Click);
             // 
             // btnTumFilmlerForm
             // 
@@ -49,6 +50,7 @@
             this.btnTumFilmlerForm.TabIndex = 1;
             this.btnTumFilmlerForm.Text = "Tüm Liste";
             this.btnTumFilmlerForm.UseVisualStyleBackColor = true;
+            this.btnTumFilmlerForm.Click += new System.EventHandler(this.btnTumFilmlerForm_Click);
             // 
             // Form1
             // 

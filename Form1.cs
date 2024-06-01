@@ -16,5 +16,17 @@ namespace Ornek_Form_Calisma
         {
             InitializeComponent();
         }
+
+        private void btnFilmEkleForm_Click(object sender, EventArgs e)
+        {
+            EkleForm ekleForm = new EkleForm();
+            ekleForm.ShowDialog();
+        }
+
+        private void btnTumFilmlerForm_Click(object sender, EventArgs e)
+        {
+            TumFilmlerForm tumFilmlerForm = new TumFilmlerForm();
+            tumFilmlerForm.ShowDialog();
+        }
     }
 }

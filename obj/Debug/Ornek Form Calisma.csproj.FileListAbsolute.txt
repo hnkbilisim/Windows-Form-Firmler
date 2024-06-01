@@ -1,0 +1,10 @@
+C:\Users\H2O\source\repos\Ornek Form Calisma\Ornek Form Calisma\bin\Debug\Ornek Form Calisma.exe.config
+C:\Users\H2O\source\repos\Ornek Form Calisma\Ornek Form Calisma\bin\Debug\Ornek Form Calisma.exe
+C:\Users\H2O\source\repos\Ornek Form Calisma\Ornek Form Calisma\bin\Debug\Ornek Form Calisma.pdb
+C:\Users\H2O\source\repos\Ornek Form Calisma\Ornek Form Calisma\obj\Debug\Ornek Form Calisma.csproj.AssemblyReference.cache
+C:\Users\H2O\source\repos\Ornek Form Calisma\Ornek Form Calisma\obj\Debug\Ornek_Form_Calisma.Form1.resources
+C:\Users\H2O\source\repos\Ornek Form Calisma\Ornek Form Calisma\obj\Debug\Ornek_Form_Calisma.Properties.Resources.resources
+C:\Users\H2O\source\repos\Ornek Form Calisma\Ornek Form Calisma\obj\Debug\Ornek Form Calisma.csproj.GenerateResource.cache
+C:\Users\H2O\source\repos\Ornek Form Calisma\Ornek Form Calisma\obj\Debug\Ornek Form Calisma.csproj.CoreCompileInputs.cache
+C:\Users\H2O\source\repos\Ornek Form Calisma\Ornek Form Calisma\obj\Debug\Ornek Form Calisma.exe
+C:\Users\H2O\source\repos\Ornek Form Calisma\Ornek Form Calisma\obj\Debug\Ornek Form Calisma.pdb
