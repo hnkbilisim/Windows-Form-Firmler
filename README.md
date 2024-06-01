@@ -9,7 +9,7 @@ Bu proje, Windows Form ortamında ilişkisel bir veritabanı(MariaDB) kullanarak
 3. Widows Form ile Projeyi Başlatın
 
 
-## Kullanım
+## SQL Kurulum
 
 ```sql
 
@@ -52,5 +52,9 @@ CREATE TABLE IF NOT EXISTS `turler` (
   `tur_ad` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci DEFAULT NULL,
   PRIMARY KEY (`tur_id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=21 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+```
 
-
+## Mysql.Data.Dll
+- Mysql Referans dosyasını indirin: https://github.com/hnkbilisim/Windows-Form-Firmler/blob/main/MySql.Data.dll
+- Referanslara tıklayın.
+- Add Referansa tıklayın.
