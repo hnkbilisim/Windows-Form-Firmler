@@ -62,3 +62,5 @@ CREATE TABLE IF NOT EXISTS `turler` (
 ## Görseller
 ![Form 1](https://github.com/hnkbilisim/Windows-Form-Firmler/blob/main/gorsel/Ekran%20görüntüsü%202024-06-02%20024616.png)
 
+## Video
+![Örnek Video](https://www.youtube.com/watch?v=MOKRMYgPeZ4)
