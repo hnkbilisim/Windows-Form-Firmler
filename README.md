@@ -11,7 +11,7 @@ Bu proje, Windows Form ortamında ilişkisel bir veritabanı(MariaDB) kullanarak
 
 ## Kullanım
 
-'''sql
+```sql
 
 -- film_arsiv_1 için veritabanı yapısı dökülüyor
 CREATE DATABASE IF NOT EXISTS `film_arsiv_1` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci */ /*!80016 DEFAULT ENCRYPTION='N' */;
