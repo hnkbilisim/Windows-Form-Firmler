@@ -116,3 +116,11 @@ Kod Blokları: Kod blokları oluşturmak için üç ters tırnak veya 4 boşluk 
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
 
+
+Hi, I'm Mona. You might recognize me as GitHub's mascot.
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| JavaScript|
+|     2| Python    |
+|     3| SQL       |
