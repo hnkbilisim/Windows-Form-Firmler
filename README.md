@@ -172,3 +172,6 @@ Some text to show that the reference links can follow later.
 <TD>veriler</TD><TD>içerir</TD>
 </TR>
 </TABLE>
+
+
+<!-- TO DO: add more details about me later -->
