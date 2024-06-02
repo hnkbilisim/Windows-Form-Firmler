@@ -175,3 +175,14 @@ Some text to show that the reference links can follow later.
 
 
 <!-- TO DO: add more details about me later -->
+
+
+Here is a simple flow chart:
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
