@@ -162,3 +162,13 @@ Some text to show that the reference links can follow later.
 [link text itself]: http://www.reddit.com
 
 <h1>Burası da H1 başlık</h1>
+
+<TABLE BORDER>
+<TR>
+<TD ROWSPAN=2>komutu iki satırı geriyor:</TD>
+<TD>Bu hücrelers</TD><TD>başka</TD>
+</TR>
+<TR>
+<TD>veriler</TD><TD>içerir</TD>
+</TR>
+</TABLE>
